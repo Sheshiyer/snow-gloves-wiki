@@ -23,7 +23,7 @@ Nothing leaves the building because a model finished a paragraph. It leaves beca
 
 ## Next
 
-- [Install](/install)
+- [Install](/install) — new Mini: [first-hour checklist](https://github.com/Sheshiyer/snow-gloves-os/blob/chore/consolidate-modular/docs/MAC-MINI-SETUP.md)
 - [Pick a runtime](/runtime)
 - [Onboard a company](/onboard)
 - [Slides, audio, video](/assets) if you want the tour before you type anything
